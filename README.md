@@ -31,4 +31,5 @@ The 0 represents an empty space . The 1 represents a mine. You will have to repl
 ```
 
 **To Run Your Code**
+
 Open up a terminal in the CWD(Current Working Directory) and run `node index.js` or go ahead and install nodemon to run your code automatically continiously.
